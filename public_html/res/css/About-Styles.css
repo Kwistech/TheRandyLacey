@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin-bottom: 0;
+	padding: 0;
+}
+
+
+.head-text {
+	margin-top: 80px;
+}
+
+/****************************/
+/****  Author Bio  **********/
+/****************************/
+
+.head-text {
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+
+.author {
+	display: flex;
+	width: 75vw;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	flex-direction: row;
+	min-height: 40vh;
+	margin-top: 30px;
+	border-radius: 10px;
+	overflow: auto;
+	background-color: rgba(255,255,255,0.80);
+	box-shadow: 0px 0px 20px rgb(146, 70, 226);
+}
+
+#author {
+	border-radius: 10px;
+	width: 20%;
+	background-image: url("../img/randy-photo-6.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#author img {
+/*
+	max-height: 250px;
+	max-width: auto;
+*/
+}
+
+#author-info {
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	padding: 20px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	line-height: 150%;
+	
+}
