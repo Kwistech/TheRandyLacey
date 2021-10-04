@@ -7,7 +7,7 @@ $(document).ready(function() {
 	})
 	
 	$('#home').click(function(){
-		window.location = 'Index.html';
+		window.location = 'index.html';
 	})	
 	
 	$('#about').click(function(){
