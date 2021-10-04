@@ -1,1 +1,3 @@
-# Randy-Lacey-Website
+# TheRandyLacey
+
+Randy Lacey's website.
